@@ -1,0 +1,17 @@
+{
+  "name": "ex2",
+  "version": "1.0.0",
+  "description": "แสดงการ ใช้ spawn ของ child process โดยupload file และ pipe ต่อ process img",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "busboy": "^1.6.0",
+    "express": "^4.19.2",
+    "@google-cloud/storage": "^7.10.1"
+  }
+}
